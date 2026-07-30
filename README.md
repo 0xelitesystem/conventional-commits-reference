@@ -8,15 +8,19 @@ A Conventional Commit encodes the kind of change into the commit message itself,
 
 ## What is inside
 
-- `01-the-format.md` the anatomy of a commit message and a full example.
-- `02-common-types.md` the standard commit types with meanings and examples.
-- `03-breaking-changes.md` the two ways to signal a breaking change.
-- `04-changelogs-and-semver.md` how types map to changelogs and version bumps.
-- `05-good-practices.md` practical rules for writing clean commits.
+- [01-the-format.md](01-the-format.md) the anatomy of a commit message and a full example.
+- [02-common-types.md](02-common-types.md) the standard commit types with meanings and examples.
+- [03-breaking-changes.md](03-breaking-changes.md) the two ways to signal a breaking change.
+- [04-changelogs-and-semver.md](04-changelogs-and-semver.md) how types map to changelogs and version bumps.
+- [05-good-practices.md](05-good-practices.md) practical rules for writing clean commits.
 
 ## The stance
 
-This is a reference, not a lecture. It sticks to the 1.0.0 spec and shows literal syntax you can copy. If you only read one file, read `01-the-format.md`.
+This is a reference, not a lecture. It sticks to the 1.0.0 spec and shows literal syntax you can copy. If you only read one file, read [01-the-format.md](01-the-format.md).
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
